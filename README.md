@@ -114,10 +114,9 @@ Replace `YOUR_MYSQL_PASSWORD` with your own local MySQL password. Do not upload 
 
 ### 5. Run the Project
 
-1. Start Apache in XAMPP.
-2. Make sure your MySQL server is running.
-3. Open your browser.
-4. Visit:
+. Make sure your MySQL server is running.
+. Open your browser.
+. Visit:
 
 ```text
 http://localhost/BankManagement/
